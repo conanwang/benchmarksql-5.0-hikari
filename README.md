@@ -2,6 +2,11 @@ BENCHMARKSQL README
 ===================
 
 CHANGE LOG:
+----------
+2021-8-30
+基于benchmarksql-5.0，通过引入hikari连接池，增加数据库连接失效后自动重连机制
+
+CHANGE LOG:
 -----------
 
 Version 5.0 lussman & jannicash:
